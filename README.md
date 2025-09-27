@@ -8,7 +8,7 @@ This project focuses on creating and executing a **comprehensive digital marketi
 
 ---
 
-## Team Members – pentaRae
+## Team Members 
 - **Shams Eldeen Ahmed** – *Team Leader & Media Buyer*  
 - **Fady Raiyq** – *Media Buyer*  
 - **Rodina Mohamed** – *Copywriter & Content Creator*  
